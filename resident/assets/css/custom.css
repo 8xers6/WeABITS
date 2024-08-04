@@ -1,0 +1,52 @@
+@media (min-width: 768px) {
+    .modal-xl {
+        width: 90%;
+    max-width:1200px;
+    }
+}
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -27px;
+    margin-right: 5px;
+    position: relative;
+    z-index: 2;
+    cursor:pointer;
+}
+
+
+
+#profileError {
+    display: none;
+    font-size: 0.8em;
+    }
+    
+    #profileError.visible {
+    display: block;
+    }
+    
+    
+    
+    #frontError {
+    display: none;
+    font-size: 0.8em;
+    }
+    
+    #frontError.visible {
+    display: block;
+    }
+    
+    
+    #backError {
+    display: none;
+    font-size: 0.8em;
+    }
+    
+    #backError.visible {
+    display: block;
+    }
+
+
+
+
+  
